@@ -1,2 +1,2 @@
-# Admin-Bootstrap-Dashboare
-Admin Bootstrap Template Dashboard
+# admin-dashboard
+ Admin Dashboard
